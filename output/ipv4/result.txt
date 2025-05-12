@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-12 18:31:39,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-05-13 06:27:01,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -19,8 +19,6 @@ CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/st
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-
-☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
 
@@ -75,5 +73,3 @@ CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/st
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
